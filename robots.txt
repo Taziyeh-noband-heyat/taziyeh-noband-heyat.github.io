@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://taziyeh-noband-heyat.github.io/sitemap.xml
